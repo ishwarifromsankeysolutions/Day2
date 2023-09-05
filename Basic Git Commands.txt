@@ -1,0 +1,13 @@
+git init:
+git init Demo
+
+git clone command:
+git clone URL
+
+git add command:
+git add filename
+
+git commit command:
+git commit -m "commit msg"
+
+  
